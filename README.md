@@ -1,6 +1,6 @@
 Hey there 👋
 
-Hi, I'm Dev Yadav!, a passionate self-taught Blockchain Developer 🚀 from India.
+Hi, I'm Dev , a passionate self-taught Blockchain Developer 🚀 from India.
 
 Talking about Personal Stuffs:
 
