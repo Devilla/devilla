@@ -11,7 +11,9 @@ Talking about Personal Stuffs:
 💬 Ask me about anything, I am happy to help.
 
 📫 How to reach me: 
-    Telegram : https://t.me/Devilla7
-    Mail : dev.koold@gmail.com
-    Twitter : https://twitter.com/Dev_Messilla
 
+  Telegram : https://t.me/Devilla7
+    
+  Mail : dev.koold@gmail.com
+    
+  Twitter : https://twitter.com/Dev_Messilla
