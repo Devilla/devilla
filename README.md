@@ -14,6 +14,4 @@ Talking about Personal Stuffs:
 
   Telegram : https://t.me/Devilla7
     
-  Mail : dev.koold@gmail.com
-    
   Twitter : https://twitter.com/Dev_Messilla
