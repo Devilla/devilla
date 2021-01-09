@@ -19,4 +19,4 @@ I have contributed to some of the big projects by firms like [ENS domains](https
 
 - Shoot me a mail [:love_letter:](dev.koold@gmail.com)
 
-- Ping me on [Telegram](https://t.me/Devilla7)
+- Ping me on [Telegram :arrow_upper_right:](https://t.me/Devilla7)
