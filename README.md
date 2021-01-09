@@ -8,6 +8,8 @@ Talking about Personal Stuffs:
 
 🌱 I’m currently learning about ethereum blockchain technology.
 
+📚 Previously a MERN (MongoDB, Express, React, Node) stack developer.
+
 I have contributed to some of the big projects by firms like [ENS domains](https://github.com/ensdomains/address-encoder/commits?author=Devilla), 
 [Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc. I am also a startup enthusiast and have multiple years of experience in building tech startups from scratch.
 
