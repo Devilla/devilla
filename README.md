@@ -17,8 +17,8 @@ I have contributed to some of the big projects by firms like [ENS domains](https
 
 📫 How to reach me: 
 
-- Follow me on Twitter [:bird:](https://twitter.com/Dev_Messilla)
+- Follow me on  [Twitter :bird:](https://twitter.com/Dev_Messilla)
 
-- Shoot me a mail [:love_letter:](dev.koold@gmail.com)
+- Shoot me a [mail :love_letter:](dev.koold@gmail.com)
 
 - Ping me on [Telegram :arrow_upper_right:](https://t.me/Devilla7)
