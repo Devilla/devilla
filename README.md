@@ -1,11 +1,11 @@
 Hey there 👋😎
 
-Hi, I'm Dev , a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
+Hi, I'm Dev Yadav, a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
 
 Talking about Personal Stuffs:
 
-💻 I’m currently working on several open-source blockchain and crypto related projects. [Cryptolend](https://github.com/crypto-lend), [Ethswap](
-https://github.com/Devilla/EthSwap), [Probably Fair](https://github.com/provably-fair/provably-fair-app), [Eth arbitrage](https://github.com/Devilla/eth-arbitrage) etc.
+💻 I’m currently working on several open-source blockchain and crypto related projects, for example [Cryptolend](https://github.com/crypto-lend), [Ethswap](
+https://github.com/Devilla/EthSwap), [Provably Fair](https://github.com/provably-fair/provably-fair-app), [Eth arbitrage](https://github.com/Devilla/eth-arbitrage) etc.
 
 🌱 I’m currently working with ethereum blockchain. Built and deployed architecture for complex blockchain solutions.
 Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://github.com/BlocklendrApp/blocklendr.ui), [Ethswap](https://github.com/Devilla/EthSwap).
