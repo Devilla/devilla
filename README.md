@@ -2,7 +2,7 @@ Hey there 👋😎
 
 Hi, I'm Dev Yadav, a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
 
-💻 I’m currently working on several open-source blockchain and crypto related projects, for example [Cryptolend](https://github.com/crypto-lend), [Ethswap](
+💻 I’m currently building several open-source blockchain and crypto related projects, for example [Cryptolend](https://github.com/crypto-lend), [Ethswap](
 https://github.com/Devilla/EthSwap), [Provably Fair](https://github.com/provably-fair/provably-fair-app) etc.
 
 🌱 I’m currently working with ethereum blockchain. Built and deployed architecture for complex blockchain solutions.
@@ -17,7 +17,7 @@ Contributed to several Crypto based online casinos like [bc.game](https://bc.gam
 
 Built decentralised exchanges (Dexs) like Uniswap and lending platforms like Ethlend.
 
-Skills:- Blockchain, Ethereum, Smart Contracts and Fullstack Developer.
+Skills:- `Blockchain, Ethereum, Smart Contracts and Fullstack Developer.`
 
 
 📚 Previously a MERN (MongoDB, Express, React, Node) stack developer.
