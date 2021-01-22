@@ -15,7 +15,7 @@ Also, familiar with cryptography. Worked on ```Provably fair verification``` wit
 
 Contributed to several Crypto based online casinos like [bc.game](https://bc.game/home), [stake](https://stake.com), [primedice](https://primedice.com), [crypto.games](https://crypto.games/) and [Bitvest](https://bitvest.io/) for their opensource probably verification. Strong knowledge of Ethereum blockchains building an ERC-20 token with an in-built unlock schedule. 
 
-Built decentralised exchanges (Dexs) like Uniswap and lending platforms like Ethlend.
+Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Ethlend.
 
 Skills:- `Blockchain, Ethereum, Smart Contracts and Fullstack Developer.`
 
