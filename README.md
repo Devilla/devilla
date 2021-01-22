@@ -7,11 +7,11 @@ Talking about Personal Stuffs:
 💻 I’m currently working on several open-source blockchain and crypto related projects.
 
 🌱 I’m currently working with ethereum blockchain technology. Built and deployed architecture for complex blockchain solutions.
-Worked with DeFi offerings such as staking, farming, flashloans etc. Experience with building on Ethereum & Matic. 
+Worked with DeFi offerings such as staking, farming, flashloans etc. Eg. [Blocklendr](https://github.com/BlocklendrApp/blocklendr.ui), [Ethswap](https://github.com/Devilla/EthSwap),
 Familiarity with basic cryptography and P2P networks. Probably fair verification with [Crypto Gambling Foundation](https://cryptogambling.org/): https://github.com/provably-fair/provably-fair-app and [Bc.game](https://github.com/ProvablyFairBets/bcgame).
 Contributed to several Crypto based online casinos like [bc.game](https://bc.game/home), [stake](https://stake.com), [primedice](https://primedice.com) etc for their opensource probably verification. Strong knowledge of Ethereum blockchains building an ERC-20 token with an in-built unlock schedule. 
 Building a smart contract to accept a certain ERC-20 token and take actions based on yield-farming/staking systemcollateral based lending cross chain development on-chain governance.
-Deploying NFTs (Non-Fungible Tokens). Deploying decentralised exchanges (Dexs) like Ethswap and lending platforms like Ethlend.
+Deploying NFTs (Non-Fungible Tokens). Deploying decentralised exchanges (Dexs) like Uniswap and lending platforms like Ethlend.
 
 Skills:- Blockchain, Ethereum, Smart Contracts and Fullstack Developer.
 
