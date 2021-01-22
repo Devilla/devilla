@@ -5,7 +5,7 @@ Hi, I'm Dev Yadav, a passionate Blockchain Developer 🚀 from India 🇮🇳 wi
 💻 I’m currently building several open-source blockchain and crypto related projects, for example [Cryptolend](https://github.com/crypto-lend), [Ethswap](
 https://github.com/Devilla/EthSwap), [Provably Fair](https://github.com/provably-fair/provably-fair-app) etc.
 
-🌱 I’m currently working with ethereum blockchain. Built and deployed architecture for complex blockchain solutions.
+🌱 I’m working with ethereum blockchain. Built and deployed architecture for complex blockchain solutions.
 Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://github.com/BlocklendrApp/blocklendr.ui), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
 
 🥇 I have contributed to some of the big projects by firms like [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
