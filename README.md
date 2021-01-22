@@ -9,7 +9,7 @@ Talking about Personal Stuffs:
 🌱 I’m currently working with ethereum blockchain technology. Build and deploy architecture for complex blockchain solutions.
 Maintain and extend current client- and server-side applications responsible for integration involved in the global opensource blockchain community.
 Building on-chain governance software development background. Worked with DeFi offerings such as staking, farming, flashloans etc. Experience with building on Ethereum & Matic. 
-Familiarity with basic cryptography and P2P networks. Strong knowledge of Ethereum blockchains building an ERC-20 token with an in-built unlock schedule. 
+Familiarity with basic cryptography and P2P networks. Contributed to several Crypto based online casinos like bc.game, stake, primedice etc for their opensource probably verification. Strong knowledge of Ethereum blockchains building an ERC-20 token with an in-built unlock schedule. 
 Building a smart contract to accept a certain ERC-20 token and take actions based on yield-farming/staking systemcollateral based lending cross chain development on-chain governance.
 Deploying NFTs (Non-Fungible Tokens). Deploying decentralised exchanges (Dexs) like Ethswap and lending platforms like Ethlend.
 
