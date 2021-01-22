@@ -1,6 +1,6 @@
-Hey there 👋
+Hey there 👋😎
 
-Hi, I'm Dev , a passionate Blockchain Developer 🚀 from India with a strong interest in Open-Source.
+Hi, I'm Dev , a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
 
 Talking about Personal Stuffs:
 
