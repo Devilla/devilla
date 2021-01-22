@@ -4,7 +4,8 @@ Hi, I'm Dev , a passionate Blockchain Developer 🚀 from India with a strong in
 
 Talking about Personal Stuffs:
 
-💻 I’m currently working on several open-source blockchain and crypto related projects.
+💻 I’m currently working on several open-source blockchain and crypto related projects. Eg. [Cryptolend](https://github.com/crypto-lend), [Ethswap](
+https://github.com/Devilla/EthSwap), [Probably Fair](https://github.com/provably-fair/provably-fair-app), [Eth arbitrage](https://github.com/Devilla/eth-arbitrage) etc.
 
 🌱 I’m currently working with ethereum blockchain technology. Built and deployed architecture for complex blockchain solutions.
 Worked with DeFi offerings such as staking, farming, flashloans etc. Eg. [Blocklendr](https://github.com/BlocklendrApp/blocklendr.ui), [Ethswap](https://github.com/Devilla/EthSwap),
