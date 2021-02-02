@@ -6,16 +6,13 @@ Hi, I'm Dev Yadav, a passionate Blockchain Developer 🚀 from India 🇮🇳 wi
 https://github.com/Devilla/EthSwap), [Provably Fair](https://github.com/provably-fair/provably-fair-app) etc.
 
 🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. Built and deployed architecture for complex blockchain solutions.
-Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://github.com/BlocklendrApp/blocklendr.ui), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
+Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
 
 🥇 I have contributed to some of the big projects by firms like [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
 [Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
 
-Also, familiar with cryptography. Worked on ```Provably fair verification``` with [Crypto Gambling Foundation](https://cryptogambling.org/): [source code](https://github.com/provably-fair/provably-fair-app) and [Bc.game](https://github.com/ProvablyFairBets/bcgame).
+Also, familiar with cryptography. Worked on Provably fair verification with [Crypto Gambling Foundation](https://cryptogambling.org/), [Bc.game](https://github.com/ProvablyFairBets/bcgame), [stake](https://stake.com), [primedice](https://primedice.com), [crypto.games](https://crypto.games/) and [Bitvest](https://bitvest.io/). 
 
-Contributed to several Crypto based online casinos like [bc.game](https://bc.game/home), [stake](https://stake.com), [primedice](https://primedice.com), [crypto.games](https://crypto.games/) and [Bitvest](https://bitvest.io/) for their opensource probably verification. 
-
-Strong knowledge of Ethereum blockchains building an ERC-20 token with an in-built unlock schedule. 
 Built decentralised exchanges (Dexs) and lending platforms similar to [Uniswap](https://app.uniswap.org/#/swap) and [Aave](https://aave.com).
 
 Skills:- `Blockchain, Ethereum, Smart Contracts and Fullstack Developer.`
