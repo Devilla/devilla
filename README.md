@@ -11,7 +11,7 @@ Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr
 🥇 I have contributed to some of the big projects by firms like [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
 [Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
 
-Also, familiar with cryptography. Worked on Provably fair verification with [Crypto Gambling Foundation](https://cryptogambling.org/), [Bc.game](https://github.com/ProvablyFairBets/bcgame), [stake](https://stake.com), [primedice](https://primedice.com), [crypto.games](https://crypto.games/) and [Bitvest](https://bitvest.io/). 
+Also, familiar with cryptography. Worked with [Crypto Gambling Foundation](https://cryptogambling.org/), [Bc.game](https://github.com/ProvablyFairBets/bcgame), [stake](https://stake.com), [primedice](https://primedice.com), [crypto.games](https://crypto.games/) and [Bitvest](https://bitvest.io/). 
 
 Built decentralised exchanges (Dexs) and lending platforms similar to [Uniswap](https://app.uniswap.org/#/swap) and [Aave](https://aave.com).
 
