@@ -24,7 +24,7 @@ Skills:- Blockchain, Ethereum, Smart Contracts and Fullstack Developer.
 
 📫 How to reach me: 
 
-- Follow me on  [Twitter :bird:](https://twitter.com/Dev_Messilla)
+- Follow me on  [Twitter :bird:](https://twitter.com/de_villa7)
 
 - Shoot me a [mail :love_letter:](dev.koold@gmail.com)
 
