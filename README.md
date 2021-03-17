@@ -15,8 +15,7 @@ Also, familiar with cryptography. Worked with [Crypto Gambling Foundation](https
 
 Built decentralised exchanges (Dexs) and lending platforms similar to [Uniswap](https://app.uniswap.org/#/swap) and [Aave](https://aave.com).
 
-Skills:- Blockchain, Ethereum, Smart Contracts and Fullstack Developer.
-
+Skills:- Blockchain, Cryptography and Smart Contracts.
 
 📚 Previously a MERN (MongoDB, Express, React, Node) stack developer.
 
