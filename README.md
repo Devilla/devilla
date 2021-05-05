@@ -25,6 +25,6 @@ Skills:- Blockchain, Cryptography and Smart Contracts.
 
 - Follow me on  [Twitter :bird:](https://twitter.com/de_villa7)
 
-- Shoot me a [mail :love_letter:](dev.yadav@muellners.org)
+- Shoot me a [dev.yadav@muellners.org :love_letter:](dev.yadav@muellners.org)
 
 - Ping me on [Telegram :arrow_upper_right:](https://t.me/Devilla7)
