@@ -17,8 +17,6 @@ Built decentralised exchanges (Dexs) and lending platforms similar to [Uniswap](
 
 Skills:- Blockchain, Cryptography and Smart Contracts.
 
-📚 Previously a MERN (MongoDB, Express, React, Node) stack developer.
-
 💬 Ask me about anything, I am happy to help.
 
 📫 How to reach me: 
