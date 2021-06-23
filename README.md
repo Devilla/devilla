@@ -2,9 +2,6 @@ Hey there 👋😎
 
 Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
 
-💻 I’m currently building several open-source blockchain and crypto related projects, for example [Cryptolend](https://github.com/crypto-lend), [Ethswap](
-https://github.com/Devilla/EthSwap), [Provably Fair](https://github.com/provably-fair/provably-fair-app) etc.
-
 🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. Built and deployed architecture for complex blockchain solutions.
 Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
 
