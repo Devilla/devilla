@@ -5,7 +5,7 @@ Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from India 🇮🇳 wit
 🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. Built and deployed architecture for complex blockchain solutions.
 Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
 
-🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
+🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [ENS](https://github.com/ensdomains/address-encoder/graphs/contributors), 
 [Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
 
 Also, familiar with cryptography. Worked with [Crypto Gambling Foundation](https://cryptogambling.org/), [Bc.game](https://github.com/ProvablyFairBets/bcgame), [stake](https://stake.com), [primedice](https://primedice.com), [crypto.games](https://crypto.games/) and [Bitvest](https://bitvest.io/). 
