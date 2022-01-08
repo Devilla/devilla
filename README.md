@@ -13,6 +13,6 @@ I'm Devendra, a human with a strong interest in Open-Source tech.
 
 - Follow me on  [Twitter :bird:](https://twitter.com/de_villa7)
 
-- Send me mail :love_letter: ***dev@cynsar.capital***
+- Send me mail :love_letter: ***dev.koold@gmail.com***
 
 - Ping me on [Telegram :arrow_upper_right:](https://t.me/Devilla7)
