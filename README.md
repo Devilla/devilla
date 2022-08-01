@@ -4,7 +4,7 @@ I'm Devendra, a Software Developer with a strong interest in Blockchain and Open
 
 🌱 I’ve worked with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/).
 
-🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [Aragon](https://github.com/aragon), [ENS](https://github.com/ensdomains/address-encoder/graphs/contributors), 
+🥇 I have contributed to some of the big projects in Web3 space like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [Aragon](https://github.com/aragon), [ENS](https://github.com/ensdomains/address-encoder/graphs/contributors), 
 [Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
 
 💬 Ask me about anything, I am happy to help.
