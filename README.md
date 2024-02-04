@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Devendra, a Software Developer with a strong interest in Blockchain and Open-Source tech.
+I'm Devendra, a Software Developer with a strong interest in Open-Source tech.
 
 🌱 I’ve worked with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/).
 
