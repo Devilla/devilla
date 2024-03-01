@@ -17,6 +17,6 @@ Research:
 
 - Follow me on  [Twitter :bird:](https://twitter.com/de_villa7)
 
-- Send me mail :love_letter: ***dev.yadav@muellners.org***
+- Send me mail :love_letter: ***devendra@spinbet.com***
 
 - Ping me on [Telegram :arrow_upper_right:](https://t.me/Devilla7)
